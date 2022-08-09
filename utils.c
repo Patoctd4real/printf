@@ -49,6 +49,7 @@ int is_digit(char c)
 		return (1);
 
 	return (0);
+
 }
 
 /**
